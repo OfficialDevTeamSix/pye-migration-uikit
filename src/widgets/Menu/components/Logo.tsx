@@ -45,7 +45,6 @@ const StyledLink = styled(Link)`
 `;
 
 const StyledLogo = styled.img`
-  width: 72px;
   height: 72px;
 `;
 
